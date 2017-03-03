@@ -1,0 +1,2 @@
+# OthelloLogic
+Othello Logic
